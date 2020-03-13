@@ -1,5 +1,7 @@
 ***** FIRST GIT TASK ******
 
+Nestor Andrusyak
 Sofiia Chaban
+
 
 Every change make with your branch than commit and make pull request
