@@ -2,6 +2,7 @@
 
 Nestor Andrusyak
 Sofiia Chaban
+Pavlo Mykhailiak
 
 
 Every change make with your branch than commit and make pull request
